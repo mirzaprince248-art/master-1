@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Creative HTML Page</title>
+</head>
+<body>
+
+    <h1>Welcome to My Website</h1>
+    <p>This website is created using <b>ONLY HTML</b>.</p>
+
+    <hr>
+
+    <h2>About Me</h2>
+    <p>
+        My name is <b>Uman Shahid</b>.  
+        I am learning <i>Web Development</i> and practicing HTML daily.
+    </p>
+
+    <h2>Personal Information</h2>
+    <ul>
+        <li>Name: Uman Shahid</li>
+        <li>Country: Pakistan</li>
+        <li>Field: Web Development</li>
+        <li>Experience: Beginner</li>
+    </ul>
+
+    <h2>Education</h2>
+    <ol>
+        <li>Matric</li>
+        <li>Intermediate</li>
+        <li>BS (Continue)</li>
+    </ol>
+
+    <h2>Skills</h2>
+    <ul>
+        <li>HTML</li>
+        <li>Basic CSS (Learning)</li>
+        <li>Computer Basics</li>
+    </ul>
+
+    <h2>My Daily Routine</h2>
+    <table border="1">
+        <tr>
+            <th>Time</th>
+            <th>Activity</th>
+        </tr>
+        <tr>
+            <td>9:00 AM</td>
+            <td>Study HTML</td>
+        </tr>
+        <tr>
+            <td>1:00 PM</td>
+            <td>Practice Coding</td>
+        </tr>
+        <tr>
+            <td>6:00 PM</td>
+            <td>Revision</td>
+        </tr>
+    </table>
+
+    <h2>Contact Form</h2>
+    <form>
+        Name:<br>
+        <input type="text"><br><br>
+
+        Email:<br>
+        <input type="email"><br><br>
+
+        Message:<br>
+        <textarea rows="4" cols="30"></textarea><br><br>
+
+        <input type="submit" value="Send">
+    </form>
+
+    <h2>Useful Links</h2>
+    <p>
+        <a href="https://www.google.com">Google</a><br>
+        <a href="https://www.github.com">GitHub</a>
+    </p>
+
+    <hr>
+
+    <p>
+        <b>Thank you</b> for visiting my HTML-only website 
+    </p>
+
+</body>
+</html>
